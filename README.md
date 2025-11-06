@@ -5,7 +5,7 @@
 1. Fork this repository
 2. Install Python
 3. Run `pip install ping-game-theory-25`
-4. Rename `main.py` to `<your_name>_<your_netid>.py`
+4. Rename the file in submissions/ with your name and net id
 5. Open the Python file in your text editor
 6. Enter your SNU NetID in `self.author_netid`
 7. Enter your strategy name in `self.strategy_name`
